@@ -1,0 +1,64 @@
+ [{
+    "e_id": "1",
+    "e_title": "Event Planning",
+    "e_location": "Hotel Indigo Singapore Katong",
+    "event_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "2",
+    "e_title": "Brainstorm Event",
+    "e_location": "The Fullerton Hotel Singapore",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "3",
+    "e_title": "Ideas & Inspiration Event",
+    "e_location": "Wyndham Toronto East Lakeview",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "4",
+    "e_title": "Inspired by Travel Event",
+    "e_location": "Shuter House, Toronto, Canada",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "5",
+    "e_title": "Inspired by Music Event",
+    "e_location": "Mayert",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "6",
+    "e_title": "Playful Event",
+    "e_location": "Mayert",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "7",
+    "e_title": "Casual Event",
+    "e_location": "Mayert",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "8",
+    "e_title": "Down to Business Ideas",
+    "e_location": "Mayert",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "9",
+    "e_title": "Sports Event",
+    "e_location": "Mayert",
+    "e_time": "11:00 to 14:00",
+  },
+  {
+    "e_id": "10",
+    "e_title": "Idioms to use as event",
+    "e_location": "Mayert",
+    "e_time": "11:00 to 14:00",
+  },
+  
+  ]
+
+

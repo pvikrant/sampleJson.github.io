@@ -20,9 +20,9 @@
         "phone": "1-770-736-8031 x56442",
         "website": "hildegard.org",
         "company": {
-            "comp_name": "Romaguera-Crona",
-            "comp_catchPhrase": "Multi-layered client-server neural-net",
-            "comp_bs": "harness real-time e-markets"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
         }
     },
     {
@@ -46,9 +46,9 @@
         "phone": "010-692-6593 x09125",
         "website": "anastasia.net",
         "company": {
-            "comp_name": "Deckow-Crist",
-            "comp_catchPhrase": "Proactive didactic contingency",
-            "comp_bs": "synergize scalable supply-chains"
+            "name": "Deckow-Crist",
+            "catchPhrase": "Proactive didactic contingency",
+            "bs": "synergize scalable supply-chains"
         }
     },
     {
@@ -72,9 +72,9 @@
         "phone": "1-463-123-4447",
         "website": "ramiro.info",
         "company": {
-            "comp_name": "Romaguera-Jacobson",
-            "comp_catchPhrase": "Face to face bifurcated interface",
-            "comp_bs": "e-enable strategic applications"
+            "name": "Romaguera-Jacobson",
+            "catchPhrase": "Face to face bifurcated interface",
+            "bs": "e-enable strategic applications"
         }
     },
     {
@@ -98,9 +98,9 @@
         "phone": "493-170-9623 x156",
         "website": "kale.biz",
         "company": {
-            "comp_name": "Robel-Corkery",
-            "comp_catchPhrase": "Multi-tiered zero tolerance productivity",
-            "comp_bs": "transition cutting-edge web services"
+            "name": "Robel-Corkery",
+            "catchPhrase": "Multi-tiered zero tolerance productivity",
+            "bs": "transition cutting-edge web services"
         }
     },
     {
@@ -124,9 +124,9 @@
         "phone": "(254)954-1289",
         "website": "demarco.info",
         "company": {
-            "comp_name": "Keebler LLC",
-            "comp_catchPhrase": "User-centric fault-tolerant solution",
-            "comp_bs": "revolutionize end-to-end systems"
+            "name": "Keebler LLC",
+            "catchPhrase": "User-centric fault-tolerant solution",
+            "bs": "revolutionize end-to-end systems"
         }
     },
     {
@@ -150,9 +150,9 @@
         "phone": "1-477-935-8478 x6430",
         "website": "ola.org",
         "company": {
-            "comp_name": "Considine-Lockman",
-            "comp_catchPhrase": "Synchronised bottom-line interface",
-            "comp_bs": "e-enable innovative applications"
+            "name": "Considine-Lockman",
+            "catchPhrase": "Synchronised bottom-line interface",
+            "bs": "e-enable innovative applications"
         }
     },
     {
@@ -176,9 +176,9 @@
         "phone": "210.067.6132",
         "website": "elvis.io",
         "company": {
-            "comp_name": "Johns Group",
-            "comp_catchPhrase": "Configurable multimedia task-force",
-            "comp_bs": "generate enterprise e-tailers"
+            "name": "Johns Group",
+            "catchPhrase": "Configurable multimedia task-force",
+            "bs": "generate enterprise e-tailers"
         }
     },
     {
@@ -202,9 +202,9 @@
         "phone": "586.493.6943 x140",
         "website": "jacynthe.com",
         "company": {
-            "comp_name": "Abernathy Group",
-            "comp_catchPhrase": "Implemented secondary concept",
-            "comp_bs": "e-enable extensible e-tailers"
+            "name": "Abernathy Group",
+            "catchPhrase": "Implemented secondary concept",
+            "bs": "e-enable extensible e-tailers"
         }
     },
     {
@@ -228,9 +228,9 @@
         "phone": "(775)976-6794 x41206",
         "website": "conrad.com",
         "company": {
-            "comp_name": "Yost and Sons",
-            "comp_catchPhrase": "Switchable contextually-based project",
-            "comp_bs": "aggregate real-time technologies"
+            "name": "Yost and Sons",
+            "catchPhrase": "Switchable contextually-based project",
+            "bs": "aggregate real-time technologies"
         }
     },
     {
@@ -254,10 +254,36 @@
         "phone": "024-648-3804",
         "website": "ambrose.net",
         "company": {
-            "comp_name": "Hoeger LLC",
-            "comp_catchPhrase": "Centralized empowering task-force",
-            "comp_bs": "target end-to-end models"
+            "name": "Hoeger LLC",
+            "catchPhrase": "Centralized empowering task-force",
+            "bs": "target end-to-end models"
+        }
+    },
+    {
+        "id": 11,
+        "event_title": "Idioms to use as event",
+        "event_location": "Mayert",
+        "event_time": "11:00 to 14:00",
+        "name": "Clementina DuBuque",
+        "username": "Moriah.Stanton",
+        "email": "Rey.Padberg@karina.biz",
+        "address": {
+            "street": "Kattie Turnpike",
+            "suite": "Suite 198",
+            "city": "Lebsackbury",
+            "zipcode": "31428-2261",
+            "geo": {
+                "lat": "-38.2386",
+                "lng": "57.2232"
+            }
+        },
+        "phone": "024-648-3804",
+        "website": "ambrose.net",
+        "company": {
+            "name": "Hoeger LLC",
+            "catchPhrase": "Centralized empowering task-force",
+            "bs": "target end-to-end models"
         }
     }
-
+    
 ]

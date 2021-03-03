@@ -24,6 +24,10 @@
             "name": "Romaguera-Crona",
             "catchPhrase": "Multi-layered client-server neural-net",
             "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -51,6 +55,10 @@
             "name": "Deckow-Crist",
             "catchPhrase": "Proactive didactic contingency",
             "bs": "synergize scalable supply-chains"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -78,6 +86,10 @@
             "name": "Romaguera-Jacobson",
             "catchPhrase": "Face to face bifurcated interface",
             "bs": "e-enable strategic applications"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -105,6 +117,10 @@
             "name": "Robel-Corkery",
             "catchPhrase": "Multi-tiered zero tolerance productivity",
             "bs": "transition cutting-edge web services"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -132,6 +148,10 @@
             "name": "Keebler LLC",
             "catchPhrase": "User-centric fault-tolerant solution",
             "bs": "revolutionize end-to-end systems"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -159,6 +179,10 @@
             "name": "Considine-Lockman",
             "catchPhrase": "Synchronised bottom-line interface",
             "bs": "e-enable innovative applications"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -186,6 +210,10 @@
             "name": "Johns Group",
             "catchPhrase": "Configurable multimedia task-force",
             "bs": "generate enterprise e-tailers"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -213,6 +241,10 @@
             "name": "Abernathy Group",
             "catchPhrase": "Implemented secondary concept",
             "bs": "e-enable extensible e-tailers"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -240,6 +272,10 @@
             "name": "Yost and Sons",
             "catchPhrase": "Switchable contextually-based project",
             "bs": "aggregate real-time technologies"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -267,6 +303,10 @@
             "name": "Hoeger LLC",
             "catchPhrase": "Centralized empowering task-force",
             "bs": "target end-to-end models"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     },
     {
@@ -294,6 +334,10 @@
             "name": "Hoeger LLC",
             "catchPhrase": "Centralized empowering task-force",
             "bs": "target end-to-end models"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         }
     }
     

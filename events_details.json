@@ -28,7 +28,21 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        }
+        },
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 2,
@@ -60,6 +74,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 3,
@@ -91,6 +119,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 4,
@@ -122,6 +164,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 5,
@@ -153,6 +209,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 6,
@@ -184,6 +254,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 7,
@@ -215,6 +299,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 8,
@@ -246,6 +344,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 9,
@@ -277,6 +389,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 10,
@@ -308,6 +434,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     },
     {
         "id": 11,
@@ -339,6 +479,20 @@
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
         }
+        "attendees":[
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            },
+            {
+              "attendee_avtar":"xyz123",
+              "attendee_name":"xyz12345678"
+            }
+        ]
     }
     
 ]

@@ -31,16 +31,19 @@
         },
         "attendees":[
             {
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_id":1,
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_id":2,
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_id":3,
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -77,18 +80,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -125,18 +128,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -173,18 +176,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -221,18 +224,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -269,18 +272,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -317,18 +320,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -365,18 +368,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -413,18 +416,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -461,18 +464,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     },
@@ -509,18 +512,18 @@
         "attendees":[
             {
               "attendee_id":1,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Monal Shah",
+              "attendee_name":"Monal Shah"
             },
             {
               "attendee_id":2,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Chirag",
+              "attendee_name":"Chirag"
             },
             {
               "attendee_id":3,
-              "attendee_avtar":"xyz123",
-              "attendee_name":"xyz12345678"
+              "attendee_avtar":"Darsan Thakor",
+              "attendee_name":"Darsan Thakor"
             }
         ]
     }

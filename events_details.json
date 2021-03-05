@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Event Of Business Planning",
         "event_location": "Hotel Indigo Singapore Katong",
         "event_time": "Monday - 11:00 to 14:00",
@@ -32,6 +33,7 @@
     },
     {
         "id": 2,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Event Planning",
         "event_location": "The Fullerton Hotel Singapore",
         "event_time": "Monday - 11:00 to 14:00",
@@ -63,6 +65,7 @@
     },
     {
         "id": 3,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Brainstorm Event",
         "event_location": "Wyndham Toronto East Lakeview",
         "event_time": "Monday - 11:00 to 14:00",
@@ -94,6 +97,7 @@
     },
     {
         "id": 4,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Ideas & Inspiration Event",
         "event_location": "Shuter House, Toronto, Canada",
         "event_time": "Monday - 11:00 to 14:00",
@@ -125,6 +129,7 @@
     },
     {
         "id": 5,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Inspired by Travel Event",
         "event_location": "Mayert",
         "event_time": "Monday - 11:00 to 14:00",
@@ -156,6 +161,7 @@
     },
     {
         "id": 6,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Inspired by Music Event",
         "event_location": "Mayert",
         "event_time": "Monday - 11:00 to 14:00",
@@ -187,6 +193,7 @@
     },
     {
         "id": 7,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Playful Event",
         "event_location": "Mayert",
         "event_time": "Monday - 11:00 to 14:00",
@@ -218,6 +225,7 @@
     },
     {
         "id": 8,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Casual Event",
         "event_location": "Mayert",
         "event_time": "Monday - 11:00 to 14:00",
@@ -249,6 +257,7 @@
     },
     {
         "id": 9,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Down to Business Ideas",
         "event_location": "Mayert",
         "event_time": "Monday - 11:00 to 14:00",
@@ -280,6 +289,7 @@
     },
     {
         "id": 10,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Sports Event",
         "event_location": "Mayert",
         "event_time": "Monday - 11:00 to 14:00",
@@ -311,6 +321,7 @@
     },
     {
         "id": 11,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Idioms to use as event",
         "event_location": "Mayert",
         "event_time": "Monday - 11:00 to 14:00",

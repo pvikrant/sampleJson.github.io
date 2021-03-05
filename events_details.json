@@ -28,21 +28,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 2,
@@ -73,21 +59,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 3,
@@ -118,21 +90,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 4,
@@ -163,21 +121,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 5,
@@ -208,21 +152,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 6,
@@ -253,21 +183,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 7,
@@ -298,21 +214,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 8,
@@ -343,21 +245,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 9,
@@ -388,21 +276,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 10,
@@ -433,21 +307,7 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     },
     {
         "id": 11,
@@ -478,21 +338,6 @@
         "wifi":{
             "wifi_name":"xyz123",
             "wifi_password":"xyz12345678"
-        },
-        "attendees":[
-            {
-              "attendee_avtar":"Monal Shah",
-              "attendee_name":"Monal Shah"
-            },
-            {
-              "attendee_avtar":"Chirag",
-              "attendee_name":"Chirag"
-            },
-            {
-              "attendee_avtar":"Darsan Thakor",
-              "attendee_name":"Darsan Thakor"
-            }
-        ]
+        }
     }
-    
 ]

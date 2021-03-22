@@ -1,14 +1,12 @@
 [
     {
         "id": 1,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Event Of Business Planning",
+        "event_title": "Event Planning",
         "event_location": "Hotel Indigo Singapore Katong",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Kulas Light",
             "suite": "Apt. 556",
@@ -26,21 +24,25 @@
             "catchPhrase": "Multi-layered client-server neural-net",
             "bs": "harness real-time e-markets"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 2,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Event Planning",
+        "event_title": "Brainstorm Event",
         "event_location": "The Fullerton Hotel Singapore",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Ervin Howell",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Victor Plains",
             "suite": "Suite 879",
@@ -58,21 +60,25 @@
             "catchPhrase": "Proactive didactic contingency",
             "bs": "synergize scalable supply-chains"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 3,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Brainstorm Event",
+        "event_title": "Ideas & Inspiration Event",
         "event_location": "Wyndham Toronto East Lakeview",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Clementine Bauch",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Douglas Extension",
             "suite": "Suite 847",
@@ -90,21 +96,25 @@
             "catchPhrase": "Face to face bifurcated interface",
             "bs": "e-enable strategic applications"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 4,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Ideas & Inspiration Event",
+        "event_title": "Inspired by Travel Event",
         "event_location": "Shuter House, Toronto, Canada",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Patricia Lebsack",
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Hoeger Mall",
             "suite": "Apt. 692",
@@ -122,21 +132,25 @@
             "catchPhrase": "Multi-tiered zero tolerance productivity",
             "bs": "transition cutting-edge web services"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 5,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Inspired by Travel Event",
+        "event_title": "Inspired by Music Event",
         "event_location": "Mayert",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Chelsey Dietrich",
         "username": "Kamren",
         "email": "Lucio_Hettinger@annie.ca",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Skiles Walks",
             "suite": "Suite 351",
@@ -154,21 +168,25 @@
             "catchPhrase": "User-centric fault-tolerant solution",
             "bs": "revolutionize end-to-end systems"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 6,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Inspired by Music Event",
+        "event_title": "Playful Event",
         "event_location": "Mayert",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Mrs. Dennis Schulist",
         "username": "Leopoldo_Corkery",
         "email": "Karley_Dach@jasper.info",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Norberto Crossing",
             "suite": "Apt. 950",
@@ -186,21 +204,25 @@
             "catchPhrase": "Synchronised bottom-line interface",
             "bs": "e-enable innovative applications"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 7,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Playful Event",
+        "event_title": "Casual Event",
         "event_location": "Mayert",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Kurtis Weissnat",
         "username": "Elwyn.Skiles",
         "email": "Telly.Hoeger@billy.biz",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Rex Trail",
             "suite": "Suite 280",
@@ -218,21 +240,25 @@
             "catchPhrase": "Configurable multimedia task-force",
             "bs": "generate enterprise e-tailers"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 8,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Casual Event",
+        "event_title": "Down to Business Ideas",
         "event_location": "Mayert",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Nicholas Runolfsdottir V",
         "username": "Maxime_Nienow",
         "email": "Sherwood@rosamond.me",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Ellsworth Summit",
             "suite": "Suite 729",
@@ -250,21 +276,25 @@
             "catchPhrase": "Implemented secondary concept",
             "bs": "e-enable extensible e-tailers"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 9,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Down to Business Ideas",
+        "event_title": "Sports Event",
         "event_location": "Mayert",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Glenna Reichert",
         "username": "Delphine",
         "email": "Chaim_McDermott@dana.io",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Dayna Park",
             "suite": "Suite 449",
@@ -282,53 +312,25 @@
             "catchPhrase": "Switchable contextually-based project",
             "bs": "aggregate real-time technologies"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     },
     {
         "id": 10,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
-        "event_title": "Sports Event",
-        "event_location": "Mayert",
-        "event_time": "Monday - 11:00 to 14:00",
-        "name": "Clementina DuBuque",
-        "username": "Moriah.Stanton",
-        "email": "Rey.Padberg@karina.biz",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
-        "address": {
-            "street": "Kattie Turnpike",
-            "suite": "Suite 198",
-            "city": "Lebsackbury",
-            "zipcode": "31428-2261",
-            "geo": {
-                "lat": "-38.2386",
-                "lng": "57.2232"
-            }
-        },
-        "phone": "024-648-3804",
-        "website": "ambrose.net",
-        "company": {
-            "name": "Hoeger LLC",
-            "catchPhrase": "Centralized empowering task-force",
-            "bs": "target end-to-end models"
-        },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
-    },
-    {
-        "id": 11,
-        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Idioms to use as event",
         "event_location": "Mayert",
-        "event_time": "Monday - 11:00 to 14:00",
+        "event_time": "11:00 to 14:00",
         "name": "Clementina DuBuque",
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
-        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Kattie Turnpike",
             "suite": "Suite 198",
@@ -346,9 +348,15 @@
             "catchPhrase": "Centralized empowering task-force",
             "bs": "target end-to-end models"
         },
-        "wifi":{
-            "wifi_name":"xyz123",
-            "wifi_password":"xyz12345678"
-        }
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
     }
 ]

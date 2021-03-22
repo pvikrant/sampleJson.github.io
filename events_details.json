@@ -1,12 +1,14 @@
 [
     {
         "id": 1,
-        "event_title": "Event Planning",
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "event_title": "Event Of Business Planning",
         "event_location": "Hotel Indigo Singapore Katong",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Leanne Graham",
         "username": "Bret",
         "email": "Sincere@april.biz",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Kulas Light",
             "suite": "Apt. 556",
@@ -24,6 +26,10 @@
             "catchPhrase": "Multi-layered client-server neural-net",
             "bs": "harness real-time e-markets"
         },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
+        },
         "attendees":[{
                         "name":"Vikrant Prajapati",
                         "email":"pvikrant.ios@gmail.com"
@@ -37,28 +43,34 @@
     },
     {
         "id": 2,
-        "event_title": "Brainstorm Event",
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "event_title": "Event Planning",
         "event_location": "The Fullerton Hotel Singapore",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Ervin Howell",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Victor Plains",
-            "suite": "Suite 879",
-            "city": "Wisokyburgh",
-            "zipcode": "90566-7771",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "-43.9509",
-                "lng": "-34.4618"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "010-692-6593 x09125",
-        "website": "anastasia.net",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Deckow-Crist",
-            "catchPhrase": "Proactive didactic contingency",
-            "bs": "synergize scalable supply-chains"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -73,28 +85,34 @@
     },
     {
         "id": 3,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Ideas & Inspiration Event",
         "event_location": "Wyndham Toronto East Lakeview",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Clementine Bauch",
         "username": "Samantha",
         "email": "Nathan@yesenia.net",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Douglas Extension",
-            "suite": "Suite 847",
-            "city": "McKenziehaven",
-            "zipcode": "59590-4157",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "-68.6102",
-                "lng": "-47.0653"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "1-463-123-4447",
-        "website": "ramiro.info",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Romaguera-Jacobson",
-            "catchPhrase": "Face to face bifurcated interface",
-            "bs": "e-enable strategic applications"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -109,28 +127,34 @@
     },
     {
         "id": 4,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Inspired by Travel Event",
         "event_location": "Shuter House, Toronto, Canada",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Patricia Lebsack",
         "username": "Karianne",
         "email": "Julianne.OConner@kory.org",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Hoeger Mall",
-            "suite": "Apt. 692",
-            "city": "South Elvis",
-            "zipcode": "53919-4257",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "29.4572",
-                "lng": "-164.2990"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "493-170-9623 x156",
-        "website": "kale.biz",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Robel-Corkery",
-            "catchPhrase": "Multi-tiered zero tolerance productivity",
-            "bs": "transition cutting-edge web services"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -145,28 +169,34 @@
     },
     {
         "id": 5,
-        "event_title": "Inspired by Music Event",
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "event_title": "Inspired by Travel Event",
         "event_location": "Mayert",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Chelsey Dietrich",
         "username": "Kamren",
         "email": "Lucio_Hettinger@annie.ca",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Skiles Walks",
-            "suite": "Suite 351",
-            "city": "Roscoeview",
-            "zipcode": "33263",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "-31.8129",
-                "lng": "62.5342"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "(254)954-1289",
-        "website": "demarco.info",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Keebler LLC",
-            "catchPhrase": "User-centric fault-tolerant solution",
-            "bs": "revolutionize end-to-end systems"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -181,28 +211,34 @@
     },
     {
         "id": 6,
-        "event_title": "Playful Event",
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "event_title": "Inspired by Music Event",
         "event_location": "Mayert",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Mrs. Dennis Schulist",
         "username": "Leopoldo_Corkery",
         "email": "Karley_Dach@jasper.info",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Norberto Crossing",
-            "suite": "Apt. 950",
-            "city": "South Christy",
-            "zipcode": "23505-1337",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "-71.4197",
-                "lng": "71.7478"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "1-477-935-8478 x6430",
-        "website": "ola.org",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Considine-Lockman",
-            "catchPhrase": "Synchronised bottom-line interface",
-            "bs": "e-enable innovative applications"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -217,28 +253,34 @@
     },
     {
         "id": 7,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Casual Event",
         "event_location": "Mayert",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Kurtis Weissnat",
         "username": "Elwyn.Skiles",
         "email": "Telly.Hoeger@billy.biz",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Rex Trail",
-            "suite": "Suite 280",
-            "city": "Howemouth",
-            "zipcode": "58804-1099",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "24.8918",
-                "lng": "21.8984"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "210.067.6132",
-        "website": "elvis.io",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Johns Group",
-            "catchPhrase": "Configurable multimedia task-force",
-            "bs": "generate enterprise e-tailers"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -253,28 +295,34 @@
     },
     {
         "id": 8,
-        "event_title": "Down to Business Ideas",
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "event_title": "Casual Event",
         "event_location": "Mayert",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Nicholas Runolfsdottir V",
         "username": "Maxime_Nienow",
         "email": "Sherwood@rosamond.me",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Ellsworth Summit",
-            "suite": "Suite 729",
-            "city": "Aliyaview",
-            "zipcode": "45169",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "-14.3990",
-                "lng": "-120.7677"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "586.493.6943 x140",
-        "website": "jacynthe.com",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Abernathy Group",
-            "catchPhrase": "Implemented secondary concept",
-            "bs": "e-enable extensible e-tailers"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -289,28 +337,34 @@
     },
     {
         "id": 9,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
         "event_title": "Sports Event",
         "event_location": "Mayert",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Glenna Reichert",
         "username": "Delphine",
         "email": "Chaim_McDermott@dana.io",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
-            "street": "Dayna Park",
-            "suite": "Suite 449",
-            "city": "Bartholomebury",
-            "zipcode": "76495-3109",
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
             "geo": {
-                "lat": "24.6463",
-                "lng": "-168.8889"
+                "lat": "-37.3159",
+                "lng": "81.1496"
             }
         },
-        "phone": "(775)976-6794 x41206",
-        "website": "conrad.com",
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
         "company": {
-            "name": "Yost and Sons",
-            "catchPhrase": "Switchable contextually-based project",
-            "bs": "aggregate real-time technologies"
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
@@ -325,12 +379,14 @@
     },
     {
         "id": 10,
-        "event_title": "Idioms to use as event",
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "event_title": "Sports Event",
         "event_location": "Mayert",
-        "event_time": "11:00 to 14:00",
+        "event_time": "Monday - 11:00 to 14:00",
         "name": "Clementina DuBuque",
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
         "address": {
             "street": "Kattie Turnpike",
             "suite": "Suite 198",
@@ -347,6 +403,52 @@
             "name": "Hoeger LLC",
             "catchPhrase": "Centralized empowering task-force",
             "bs": "target end-to-end models"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
+        },
+        "attendees":[{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    },{
+                        "name":"Vikrant Prajapati",
+                        "email":"pvikrant.ios@gmail.com"
+                    }]
+    },
+    {
+        "id": 11,
+        "event_image":"https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "event_title": "Idioms to use as event",
+        "event_location": "Mayert",
+        "event_time": "Monday - 11:00 to 14:00",
+        "name": "Clementina DuBuque",
+        "username": "Moriah.Stanton",
+        "email": "Rey.Padberg@karina.biz",
+        "description":"An event description is copy that aims to tell your potential attendees what will be happening at the event, who will be speaking, and what they will get out of attending. Good event descriptions can drive attendance to events and also lead to more media coverage.",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
+        "company": {
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        },
+        "wifi":{
+            "wifi_name":"xyz123",
+            "wifi_password":"xyz12345678"
         },
         "attendees":[{
                         "name":"Vikrant Prajapati",
